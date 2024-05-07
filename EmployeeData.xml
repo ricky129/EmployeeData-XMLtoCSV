@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xmlstylesheet.xsl"?>
+<Person>
+    <Data>
+        <id>1</id>
+        <FirstName>Giulio</FirstName>
+        <LastName>Bianchi</LastName>
+        <Position>Position1</Position>
+        <Salary>18</Salary>
+    </Data>
+    <Data>
+        <id>2</id>
+        <FirstName>Luca</FirstName>
+        <LastName>Rossi</LastName>
+        <Position>Position2</Position>
+        <Salary>25</Salary>
+    </Data>
+    <Data>
+        <id>3</id>
+        <FirstName>Marco</FirstName>
+        <LastName>Verdi</LastName>
+        <Position>Position3</Position>
+        <Salary>30</Salary>
+    </Data>
+</Person>

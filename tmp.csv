@@ -1,0 +1,4 @@
+id,Nome,Cognome,Mansione,Stipendio
+1,Giulio,Bianchi,Mansione1,18
+<Nome>Luca</Nome>,<Cognome>Rossi</Cognome>,<Mansione>Mansione2</Mansione>,<Stipendio>25</Stipendio>,<id>2</id>
+<Nome>Marco</Nome>,<Cognome>Verdi</Cognome>,<Mansione>Mansione3</Mansione>,<Stipendio>30</Stipendio>,<id>3</id>
